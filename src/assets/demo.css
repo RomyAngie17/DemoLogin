@@ -1,0 +1,47 @@
+.background-radial-gradient {
+    height: 100vh;
+    width: 100vw;
+    background-image: url('./img/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    *background-color: hsl(218, 41%, 15%);
+}
+
+
+.bg-glass {
+  background-color: rgba(102, 102, 102, 0.65) !important;
+  width: 20em !important;
+  border-radius: 15px !important;
+  border: 1px solid rgba(102, 102, 102, 0.65) !important;
+  backdrop-filter: saturate(20%) blur(5px) !important;
+}
+
+.title {
+    color: white;
+}
+
+.subtitle {
+    color: white;
+}
+
+.form-label{
+    color: white;
+}
+
+.rounded-white {
+  border-radius: 20px;
+  background-color: white !important;
+  color: black;
+}
+
+.text-white {
+  color: white;
+}
+
+.myButton{
+  background-color: "#1E1E2D"
+}
+
+.bg-opacity-50 {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+}
